@@ -1,0 +1,4 @@
+s="abc pqr"
+s1=" ".join(s)
+print(s)
+print(s1)
